@@ -1,0 +1,10 @@
+This is a iOS app that I coded during the summer of 2014.
+
+It makes some calculations regarding projectile motion.
+
+Some features are that it calculates and displays the highest point
+the projectile reaches, how long it takes to reach that point, how far
+the projectile travels before hitting the ground, and how long that takes,
+based on input from the user in a text field. There are also preset buttons
+that make it easy to change the force of gravity to and from earth, mars,
+jupiter and more.
